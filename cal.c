@@ -8,6 +8,7 @@
     while (i>=1)
     {
         t=n*i;
+        printf("Hello");
         printf("%d*%d=%d\n",n,i,t);
         i--;      }   
 
